@@ -1,0 +1,51 @@
+[
+    {
+        "numero": 3,
+        "nimi": "Viiru",
+        "syntymavuosi": 2015,
+        "rotu": "sekarotuinen",
+        "painoKg": 4
+    },
+    {
+        "numero": 7,
+        "nimi": "Kolli",
+        "syntymavuosi": 2011,
+        "rotu": "gigantus",
+        "painoKg": 7
+    },
+    {
+        "numero": 4,
+        "nimi": "Hirmu II",
+        "syntymavuosi": 1995,
+        "rotu": "sohvakehrääjä",
+        "painoKg": 5
+    },
+    {
+        "numero": 6,
+        "nimi": "Karvaturri",
+        "syntymavuosi": 2010,
+        "rotu": "pörröhäntä",
+        "painoKg": 3
+    },
+    {
+        "numero": 5,
+        "nimi": "Söpö",
+        "syntymavuosi": 2012,
+        "rotu": "kujakolli",
+        "painoKg": 6
+    },
+    {
+        "numero": 2,
+        "nimi": "Plösö",
+        "syntymavuosi": 2018,
+        "rotu": "kotikissa",
+        "painoKg": 15
+    },
+    {
+        "numero": 1,
+        "nimi": "Kehrääjä",
+        "syntymavuosi": 2017,
+        "rotu": "silkkiturkki",
+        "painoKg": 10
+    }
+]

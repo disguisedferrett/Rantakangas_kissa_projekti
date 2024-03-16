@@ -1,0 +1,44 @@
+[
+    {
+        "id": 7,
+        "nimi": "Kolli",
+        "syntymavuosi": 2011,
+        "rotu": "gigantus",
+        "painoKg": 7
+    },
+    {
+        "id": 4,
+        "nimi": "Hirmu II",
+        "syntymavuosi": 1995,
+        "rotu": "sohvakehrääjä",
+        "painoKg": 5
+    },
+    {
+        "id": 6,
+        "nimi": "Karvaturri",
+        "syntymavuosi": 2010,
+        "rotu": "pörröhäntä",
+        "painoKg": 3
+    },
+    {
+        "id": 5,
+        "nimi": "Söpö",
+        "syntymavuosi": 2012,
+        "rotu": "kujakolli",
+        "painoKg": 6
+    },
+    {
+        "id": 1,
+        "nimi": "Kehrääjä",
+        "syntymavuosi": 2017,
+        "rotu": "silkkiturkki",
+        "painoKg": 10
+    },
+    {
+        "id": 9,
+        "nimi": "Mirri",
+        "syntymavuosi": "2001",
+        "rotu": "sekarotuinen",
+        "painoKg": 6
+    }
+]
